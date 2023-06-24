@@ -32,7 +32,7 @@ I am an aspiring Python Full Stack Developer <img src="https://media.giphy.com/m
 - 🔭 I’m a Junior at VJIT Hyderabad in Artificial Intelligence. And am part of Cohort - 3 of WE @talentsprint supported by Google!.
 - 🌱 Exploring the world of writing both technical and abstract.
 - ⚡ I am an avid reader of pretty much what comes in my way.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Srikari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srikari-rallabandi-ab2829173/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Srikari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srikari-r-ab2829173/)
 
 ---
 
