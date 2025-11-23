@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am currently pursuing MS in Financial Engineering at UIUC, and am a Python Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am currently pursuing MS in Financial Engineering at UIUC, and am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US.
 
 - 🔭 I did my bachelors in Artificial Intelligence. And am part of Cohort - 3 of WE @talentsprint, supported by Google!
 - 🌱 Exploring the world of writing, both technical and abstract.
