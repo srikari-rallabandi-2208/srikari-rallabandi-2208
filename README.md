@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an aspiring MS/Ph.D student and a Python Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am currently pursuing MS in Financial Engineering at UIUC, and am a Python Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m a Senior at VJIT Hyderabad in Artificial Intelligence. And am part of Cohort - 3 of WE @talentsprint, supported by Google!
+- 🔭 I did my bachelors in Artificial Intelligence. And am part of Cohort - 3 of WE @talentsprint, supported by Google!
 - 🌱 Exploring the world of writing, both technical and abstract.
 - ⚡ I am an avid reader of pretty much what comes my way.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Srikari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/srikari-r-ab2829173/)
